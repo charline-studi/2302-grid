@@ -8,7 +8,6 @@
 
 Ce cours est composé d'une série de 6 lives.
 Durant les lives nous allons apprendre à mettre en place des grilles, organiser nos colonnes, lignes et cellules.
-Un exercice "pratique" sera fait au fur et à mesure de la session.
 
 ## Pré-requis
 
@@ -18,15 +17,15 @@ Un exercice "pratique" sera fait au fur et à mesure de la session.
 
 ## Planning
 
-| Numéro | Date       | Heure     | Titre                                            | Replay                                               |
-| ------ | ---------- | --------- | ------------------------------------------------ | ---------------------------------------------------- |
-| 01     | 16/01/2023 | 15h - 16h | Introduction, variables                          | https://app.studi.fr/#/dashboard/events/47031/replay |
-| 02     | 19/01/2023 | 15h - 16h | Suite variables et fonctions                     | https://app.studi.fr/v3/events/47032/replay          |
-| 03     | 23/01/2023 | 15h - 16h | Les conditions if, else if , else et le ternaire | https://app.studi.fr/v3/events/47033/replay          |
-| 04     | 30/01/2023 | 15h - 16h | La boucle For                                    | https://app.studi.fr/v3/events/47034/replay          |
-| 05     | 02/02/2023 | 15h - 16h | Mise en pratique                                 | https://app.studi.fr/v3/events/47035/replay          |
+| Numéro | Date       | Heure     | Titre  | Replay  |
+| ------ | ---------- | --------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| 01     | 06/02/2023 | 09h - 10h | Concepts de base du display grid, ses objectifs, ses limites, ses propriétés associées, et création de notre première grille | https://app.studi.fr/v3/events/47024/replay |
+| 02     | 13/02/2023 | 09h - 10h | Créer une grille complexe en customisant le positionnement des cellules | https://app.studi.fr/v3/events/47025/replay |
+| 03     | 20/02/2023 | 15h - 16h | Alignement de mon contenu à l'intérieur de mes cellules des grilles. | Pas encore disponible |
+| 04     | 27/02/2023 | 15h - 16h | Personnaliser ma grille avec des zones | Pas encore disponible |
+| 05     | 06/03/2023 | 15h - 16h | Gestion du responsive | Pas encore disponible |
+| 06     | 13/03/2023 | 15h - 16h | Les dernières grilles à connaître mansory et subgrid| Pas encore disponible |
 
 ## Ressources
 
-- [📖 Guide Javascript - FR](https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide)
-- [Liste des évènements écoutables en JS](https://developer.mozilla.org/fr/docs/Web/API/Event)
+- [📖 Guide CSS Grid - EN](https://css-tricks.com/snippets/css/complete-guide-grid/)

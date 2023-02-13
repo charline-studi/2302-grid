@@ -1,0 +1,16 @@
+.container {
+    /* Initialisation de la grille*/
+    display: grid; 
+    /* Définir ma grille */
+    /* fr = Free Remaining = "Espace vide restant" */
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-columns: 50px 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: repeat(4, 1fr); /* repeat( nombreDeRepetitions, taille )*/
+    grid-template-columns: 1fr 50px 50px 1fr 2fr;
+    grid-template-columns: 1fr repeat(2, 50px) 1fr 2fr;
+    grid-template-rows: 20px 300px 300px;
+    column-gap: 20px;
+    row-gap: 10px;
+    gap: 15px 30px
+}

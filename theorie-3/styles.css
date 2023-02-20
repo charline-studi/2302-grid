@@ -1,0 +1,38 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 200px);
+
+    gap: 20px;
+    /* Positionnement de mes cellules */
+    /* 
+    start = Gauche 
+    end = Droite
+    center = Centre
+    stretch = Étire (par défaut)
+    */
+    justify-items: center;
+    align-items: center;
+}
+
+.cell {
+    background-color: orange;
+}
+
+.fifth {
+    background-color: red;
+    justify-self: stretch;
+    align-self: stretch;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ninth {
+    /* 
+    Pour simplifier encore plus l'écriture : 
+    align-self: end;
+    justify-self: end; 
+    */
+    place-self: end center;
+}

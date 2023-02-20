@@ -1,0 +1,30 @@
+.app {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    /* grid-template-rows: repeat(3, 200px); */
+    /* grid-template-rows: ; */
+    grid-template-areas: 
+        "header header header"
+        "main . sidebar"
+        "footer footer footer";
+}
+
+.header {
+    background-color: purple;
+    grid-area: header;
+}
+
+.main {
+    background-color: green;
+    grid-area: main;
+}
+
+.sidebar {
+    background-color: blue;
+    grid-area: sidebar;
+}
+
+.footer {
+    background-color: orange;
+    grid-area: footer;
+}

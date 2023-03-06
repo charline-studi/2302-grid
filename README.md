@@ -23,7 +23,7 @@ Durant les lives nous allons apprendre à mettre en place des grilles, organiser
 | 02     | 13/02/2023 | 09h - 10h | Créer une grille complexe en customisant le positionnement des cellules | https://app.studi.fr/v3/events/47025/replay |
 | 03     | 20/02/2023 | 15h - 16h | Alignement de mon contenu à l'intérieur de mes cellules des grilles. | https://app.studi.fr/v3/events/47026/replay |
 | 04     | 27/02/2023 | 15h - 16h | Personnaliser ma grille avec des zones | https://app.studi.fr/v3/events/47028/replay |
-| 05     | 06/03/2023 | 15h - 16h | Gestion du responsive | Pas encore disponible |
+| 05     | 06/03/2023 | 15h - 16h | Gestion du responsive | https://app.studi.fr/v3/events/47029/replay |
 | 06     | 13/03/2023 | 15h - 16h | Les dernières grilles à connaître mansory et subgrid| Pas encore disponible |
 
 ## Ressources

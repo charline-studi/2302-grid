@@ -29,3 +29,5 @@ Durant les lives nous allons apprendre à mettre en place des grilles, organiser
 ## Ressources
 
 - [📖 Guide CSS Grid - EN](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [Jeu CSS grid 🥕](https://cssgridgarden.com/#fr)
+- [Jeu CSS grid 🗡️](https://codingfantasy.com/games/css-grid-attack/play)
